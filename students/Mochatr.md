@@ -1,0 +1,3 @@
+- Name: Mohamed Chatr
+- School: ALX Africa
+- Favorite Quote: Early to bed, early to rise, makes a man young, wealthy and wise. -Benjamin Franklin.
